@@ -4,6 +4,7 @@
     "description": "open nodejs docs",
     "version": "0.2.0",
     "publisher": "mukundan",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.16.0"
     },

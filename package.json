@@ -1,9 +1,9 @@
 {
     "name": "nodejs-docs",
-    "displayName": "nodejs-docs",
+    "displayName": "Node.js docs",
     "description": "open nodejs docs",
-    "version": "0.2.0",
-    "publisher": "mukundan",
+    "version": "0.2.1",
+    "publisher": "Mukundan",
     "license": "MIT",
     "engines": {
         "vscode": "^1.16.0"
@@ -16,10 +16,12 @@
     ],
     "main": "./out/src/extension",
     "contributes": {
-        "commands": [{
-            "command": "extension.openNodejsDocs",
-            "title": "Open Node.js docs"
-        }]
+        "commands": [
+            {
+                "command": "extension.openNodejsDocs",
+                "title": "Open Node.js docs"
+            }
+        ]
     },
     "scripts": {
         "vscode:prepublish": "npm run compile",

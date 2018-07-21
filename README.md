@@ -1,5 +1,7 @@
 # Node.Js docs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Mukundan314/vscode-nodejs-docs.svg)](https://greenkeeper.io/)
+
 open node js docs in vscode
 
 ## Features

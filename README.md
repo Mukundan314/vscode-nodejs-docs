@@ -1,3 +1,5 @@
+## Do not use this extension, Use a Web Browser instead
+
 <h1 align="center">Node.js docs</h1>
 
 <div align="center">
